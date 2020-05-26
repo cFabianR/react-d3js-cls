@@ -1,9 +1,8 @@
-
 import React, { Component } from 'react';
 import './App.css';
 import ControllerBar from './Controller.js'
 import {ControllerGrapho} from './Controller.js'
-import {ControllerGrapho2} from './Controller.js'
+import {ControllerBubbles} from './Controller.js'
 
 class App extends Component {
   render() {
