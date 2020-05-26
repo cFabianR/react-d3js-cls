@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import './App.css';
 import ControllerBar from './Controller.js'
@@ -13,6 +14,7 @@ class App extends Component {
         </header>
         <ControllerBar />
         <ControllerGrapho />
+        <ControllerBubbles />
       </div>
     );
   }
