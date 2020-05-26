@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cFabianR/react-d3js-cls.git/static/css/main.6e3a14c4.chunk.css",
+    "main.js": "/cFabianR/react-d3js-cls.git/static/js/main.63de1ffc.chunk.js",
+    "main.js.map": "/cFabianR/react-d3js-cls.git/static/js/main.63de1ffc.chunk.js.map",
+    "runtime-main.js": "/cFabianR/react-d3js-cls.git/static/js/runtime-main.f1ff1287.js",
+    "runtime-main.js.map": "/cFabianR/react-d3js-cls.git/static/js/runtime-main.f1ff1287.js.map",
+    "static/js/2.1b038097.chunk.js": "/cFabianR/react-d3js-cls.git/static/js/2.1b038097.chunk.js",
+    "static/js/2.1b038097.chunk.js.map": "/cFabianR/react-d3js-cls.git/static/js/2.1b038097.chunk.js.map",
+    "index.html": "/cFabianR/react-d3js-cls.git/index.html",
+    "precache-manifest.10b224961ed9c305bac13b0e760e69b4.js": "/cFabianR/react-d3js-cls.git/precache-manifest.10b224961ed9c305bac13b0e760e69b4.js",
+    "service-worker.js": "/cFabianR/react-d3js-cls.git/service-worker.js",
+    "static/css/main.6e3a14c4.chunk.css.map": "/cFabianR/react-d3js-cls.git/static/css/main.6e3a14c4.chunk.css.map",
+    "static/js/2.1b038097.chunk.js.LICENSE.txt": "/cFabianR/react-d3js-cls.git/static/js/2.1b038097.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ff1287.js",
+    "static/js/2.1b038097.chunk.js",
+    "static/css/main.6e3a14c4.chunk.css",
+    "static/js/main.63de1ffc.chunk.js"
+  ]
+}
